@@ -14,7 +14,7 @@ A simple web-based application developed in Java using **JSP**, **Servlets**, an
 - **Language:** Java (JDK 8 or higher)
 - **Frontend:** HTML, CSS, JSP
 - **Backend:** Servlets, JDBC
-- **Database:** Oracle 11g / MySQL 8.0
+- **Database:**  MySQL 8.0
 - **Web Server:** Apache Tomcat 9+
 - **IDE:** Eclipse / IntelliJ IDEA
 - **Browser:** Chrome, Firefox, Edge
